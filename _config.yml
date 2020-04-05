@@ -1,0 +1,13 @@
+title: 5ls docs
+description: Docs
+remote_theme: carlosperate/jekyll-theme-rtd
+
+# Theme settings:
+site_author: Patrick Haußmann
+repo_url: "https://github.com/PatrickHaussmann/docs.5ls.de"
+#edit_on_github: true
+#github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
