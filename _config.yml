@@ -8,7 +8,7 @@ edit_on_github: false
 logo: '/icon.png'
 site_favicon: '/favicon.ico'
 sticky_navigation: true
-prev_next_buttons_location: bottom
+prev_next_buttons_location: None
 search_enabled: false
 hljs_style: github-gist
 
