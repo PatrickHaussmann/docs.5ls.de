@@ -5,7 +5,7 @@ remote_theme: carlosperate/jekyll-theme-rtd
 site_author: Patrick Haußmann
 repo_url: "https://github.com/PatrickHaussmann/docs.5ls.de"
 edit_on_github: false
-logo: '/icon.svg'
+logo: '/icon.png'
 site_favicon: '/favicon.ico'
 sticky_navigation: true
 prev_next_buttons_location: bottom
