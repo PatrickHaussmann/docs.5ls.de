@@ -6,7 +6,7 @@
 
 2. gebe ```one.one.one.one``` ein
 
-3. Besuche die Website: ``` https://1.1.1.1/help```
+3. Besuche die Website: [https://1.1.1.1/help]
 
 4. Unter ```Connected to 1.1.1.1``` sollte ```Yes``` stehen
 
@@ -38,6 +38,6 @@
 
 9. Schalte das WLAN aus und wieder an
 
-10. Besuche die Website: ``` https://1.1.1.1/help```
+10. Besuche die Website: [https://1.1.1.1/help]
 
 11. Unter ```Connected to 1.1.1.1``` sollte ```Yes``` stehen
