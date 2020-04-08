@@ -1,10 +1,8 @@
 # Ubuntu
 
-### DNS 1.1.1.1
-
 - [dns resolvconf](https://askubuntu.com/a/51286)
 
-  - sai resolvconf
+  - sudo apt install resolvconf
   - sudo nano /etc/resolvconf/resolv.conf.d/head
 
   ```
